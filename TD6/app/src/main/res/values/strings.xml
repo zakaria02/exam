@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD6</string>
+    <string name="nom_de_repo">Nom de Repo</string>
+    <string name="rechercher">Rechercher</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsList</string>
+    <string name="login">LOGIN</string>
+    <string name="details">Details</string>
+    <string name="ok">OK</string>
+    <string name="logout">logout</string>
+    <string name="about">About</string>
+    <string name="username">Username</string>
+    <string name="avec_intent">avec intent</string>
+    <string name="avec_context">avec context</string>
+</resources>
